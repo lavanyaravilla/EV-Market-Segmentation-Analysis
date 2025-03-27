@@ -18,5 +18,6 @@ Which demographic, psychographic, behavioural or other factors your team will ta
 
 Tool USed
 Jupiter Python
+beautiful Soap UI4.0
 Tableau
 Excel
